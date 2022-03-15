@@ -4,7 +4,4 @@ module.exports = {
     extend: {},
   },
   plugins: [],
-  "scripts": {
-  "build": "tailwind build src/css/tailwind.css -o dist/css/tailwind.css"
-},
 };
