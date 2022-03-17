@@ -1,0 +1,7 @@
+User-agent: Twitterbot
+Allow: 
+Allow: /public
+Allow: /
+
+User-agent: *
+Allow: /
